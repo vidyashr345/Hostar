@@ -1,0 +1,71 @@
+.logo{
+    font-size: 60px;
+}
+
+.container{
+    display: flex;
+    height: 300px;
+    width: 400px;
+}
+
+.img_container{
+    display: flex;
+    height: 400px;
+    width: 3000px;
+    margin: 30px;
+}
+
+.img_container1{
+    display: flex;
+    height: 400px;
+    width: 300px;
+    margin: 30px;
+}
+
+.img_container2{
+    display: flex;
+    height: 400px;
+    width: 300px;
+    margin: 30px;
+}
+
+.carousel{
+    display: flex;
+    padding: 5px;
+}
+
+.sports{
+    display: flex;
+    height: 400px;
+    width: 300px;
+    margin: 30px;
+}
+
+.sports1{
+    display: flex;
+    height: 400px;
+    width: 300px;
+    margin: 30px;
+}
+
+.show{
+    display: flex;
+    padding: 5px;
+}
+
+.Tvshow{
+    display: flex;
+    height: 400px;
+    width: 300px;
+    margin: 30px;
+    padding: 5px;
+}
+
+.Tvshow1{
+    display: flex;
+    height: 400px;
+    width: 300px;
+    margin: 30px;
+    padding: 5px;
+
+}
